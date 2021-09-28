@@ -7,3 +7,5 @@ git checkout allows you to create your own branch locally to make changes.
 
 ## Git commit
 git commit is a way to commit your changes up for review
+
+`git commit -m {description}`
